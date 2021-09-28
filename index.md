@@ -39,8 +39,7 @@ I have been actively involved in various extracurricular activities since high s
 ## Hobbies
 
 In my free time, I enjoy playing soccer and chilling out in the beach. I also like to go hiking. 
-
-'''Some of my favorite hikes were in Sedona and Yosemite. '''
+```Some of my favorite hikes were in Sedona and Yosemite. ```
 <br/>
 
 Here is a list of my `top 3` movies-
